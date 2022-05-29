@@ -1,0 +1,9 @@
+name: Quest
+author: alvin0319
+main: Quest\QuestPlugin
+version: 1.0.0
+api: 4.0.0
+
+commands:
+  퀘스트:
+    description: 퀘스트 명령어입니다.
